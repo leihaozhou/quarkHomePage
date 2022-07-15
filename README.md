@@ -11,7 +11,7 @@ H5仿夸克浏览器主页
 # 图标来源
 * Pure轻雨图标包
 # 在线地址
-[https://leihaozhou.github.io/quarkhomepage/](https://leihaozhou.github.io/quarkhomepage/)
+[https://leihaozhou.github.io/quarkHomePage/](https://leihaozhou.github.io/quarkHomePage/)
 # 感谢开源项目
 * jquery
 * sortablejs
